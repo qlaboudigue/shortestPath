@@ -24,3 +24,13 @@ A fix consisting in removing the last item of the list has been found.
 
 The project has been developin Android studio with the Flutter SDK in Dart but the code can be copy pasted in dartpad.dev in the main() method and adding at the top of the editor the following import :  
 import 'package:flutter/foundation.dart';
+
+## Result
+
+Result is displayed the following with "2" showing the shortest path
+[2, 2, 2, 2, 2]
+[2, 1, 0, 0, 2]
+[0, 1, 1, 0, 2]
+[0, 1, 1, 1, 1]
+[1, 1, 0, 1, 1]
+[1, 1, 1, 1, 0]
