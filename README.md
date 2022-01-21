@@ -25,6 +25,10 @@ A fix consisting in removing the last item of the list has been found.
 The project has been developin Android studio with the Flutter SDK in Dart but the code can be copy pasted in dartpad.dev in the main() method and adding at the top of the editor the following import :  
 import 'package:flutter/foundation.dart';
 
+The code to copy paste is commented between the two marks :  
+- /// ------- SHORTEST PATH START
+- /// ------- SHORTEST PATH END
+
 ## Result
 
 Result is displayed the following with "2" showing the shortest path
