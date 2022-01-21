@@ -48,7 +48,6 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState() {
     super.initState();
-
     /// ------- SHORTEST PATH START
     if (!_blockExists(si, sj)) {
       // Check starting block existence
