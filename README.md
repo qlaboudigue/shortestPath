@@ -7,7 +7,7 @@ Algorithms like A*, Dijktra have been studied before jumping into the exercise.
 
 ## Process and Progress
 
-A first choice was not to use existing but obscure algorithm but to build one on my own.
+A first choice was not to use existing and obscure algorithms but to build one on my own.  
 I've spent time on paper trying to simulate the problem solving process.  
 From the starting point, the goal was to explore direct "neighbours".  
 This process has been reproduced until the visited point was the ending point (given in the exercise).  
